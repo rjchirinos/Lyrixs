@@ -21,10 +21,10 @@ Clone the project directly from the GitHub Repo:
 $ git clone https://github.com/rjchirinos/Lyrixs.git
 ```
 
-Then install the requisites
+Then install the requirements
 
 ```
-$ pip3 install requisites.txt
+$ pip3 install requirements.txt
 ```
 and
 
