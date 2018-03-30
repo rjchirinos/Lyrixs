@@ -10,6 +10,7 @@ You can also search for specific lyrics by the title of the song and the artist.
 ```
 Python 3.X
 PyLyrics
+dbus
 ```
 
 ### Installing
@@ -20,10 +21,15 @@ Clone the project directly from the GitHub Repo:
 $ git clone https://github.com/rjchirinos/Lyrixs.git
 ```
 
-After that just have to run Lyrixs.py from a terminal
+Then install the requisites
 
 ```
-$ python3 Lyrixs.py
+$ pip3 install requisites.txt
+```
+and
+
+```
+$ sudo apt-get install python-dbus
 ```
 
 
